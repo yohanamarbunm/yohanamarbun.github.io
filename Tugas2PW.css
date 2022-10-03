@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+
+}
+
+
+
+
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(buku.jpg) ;
+    background-position: center;
+    background-size: cover;
+    overflow-y: scroll;
+    color:palevioletred;
+    font-family: Impact;
+    font: weight 1px;;
+
+}
+h1{
+    text-align: center;
+    margin-bottom: 40px;
+    color:palevioletred;
+    font-family: 'Times New Roman';
+    text-shadow: 3px 2px 1px black;
+    font-weight: bold;
+    
+}
+.container{
+  max-width: 700px;
+  width: 100%;
+  background-color:transparent;
+  padding: 25px 30px;
+  border-radius: 5px;
+  box-shadow: inset;
+  font-family: 'Times New Roman';
+  color: palevioletred;
+    
+}
+
+legend{
+    font-family:'Times New Roman';
+    color: palevioletred;
+    font-weight: bolder;
+   
+}
+.button{
+    background-color: palevioletred;
+}
+
